@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Toddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ToddyTheNoobDud&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22ToddyTheNoobDud%22" /> </p>
 
-- 🔭 I’m currently working on [Toddy's Script](https://github.com/ToddyTheNoobDud/ToddyGui)
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **Lua or LuaU** and **nodeJS / Javascript**
 
-- 📫 How to dm me **!Toddy#6505**
+- 📫 How to dm me -----
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ToddyTheNoobDud&theme=dark&hide_border=false)<br/>
 
