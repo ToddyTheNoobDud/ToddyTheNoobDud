@@ -9,4 +9,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ToddyTheNoobDud&theme=dark&hide_border=false)<br/>
 
-<h3 align="left">Languages:</h3> </a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank" rel="noreferrer"> <img src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3> </a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua" width="40" height="40"/> </a> </p>
