@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ToddyTheNoobDud&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22ToddyTheNoobDud%22" /> </p>
 
-- 🔭 I’m currently working on **UniversalSearch**
+- 🔭 I’m currently working on **UniversalSearch** and **Toddy's Client Optimizer**
 
 - 🌱 I’m currently learning **Lua** and **nodeJS**
 
