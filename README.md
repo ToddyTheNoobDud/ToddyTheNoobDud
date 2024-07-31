@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ToddyTheNoobDud&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22ToddyTheNoobDud%22" /> </p>
 
-<a href="https://discord.com/users/1053363102017662976/"><img src="https://discord.c99.nl/widget/theme-2/1053363102017662976.png"></a></a>
+
 
 - 🔭 I’m currently working on **Toddy's Distube Bot** and **Toddy's Command Handler**
 
