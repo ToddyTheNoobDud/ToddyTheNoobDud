@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Lua** and **nodeJS**
 
-- 📫 Im an brazilian programmer, i also code bots for fun cuz why not
+- 📫 Im an brazilian, with 14y tho, i also code bots for fun cuz why not
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ToddyTheNoobDud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ToddyTheNoobDud&show_icons=true&locale=en&theme=dark)<br/>
