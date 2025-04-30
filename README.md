@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **Toddy's Distube Bot** and **Toddy's Command Handler**
+- 🔭 I’m currently working on **Aqualink, Kenium Music, Shinobu, Henium, And other projects at the same time**
 
-- 🌱 I’m currently learning **Lua** and **nodeJS**
+- 🌱 I like doing stuff with nodejs or lua, backend
 
-- 📫 Im an brazilian, with 14y tho, i also code bots for fun cuz why not
+- 📫 Im from Brazil, and im 14 years old lol
 
 
 # 📊 GitHub Stats:
