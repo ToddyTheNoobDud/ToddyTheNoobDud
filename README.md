@@ -10,6 +10,10 @@
 - 📫 Im from Brazil, and im 14 years old lol
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToddyTheNoobDud&layout=compact&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ToddyTheNoobDud&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api?username=ToddyTheNoobDud&show_icons=true&locale=en&theme=dark)<br/>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToddyTheNoobDud&layout=compact&theme=catppuccin_mocha&show_icons=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToddyTheNoobDud&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToddyTheNoobDud&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats" />
+</div>
