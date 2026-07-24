@@ -42,6 +42,10 @@
 
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToddyTheNoobDud&theme=transparent&utcOffset=-3" />
 
+  <div align="center">
+    <img src="https://count.getloli.com/@:ToddyTheNoobDud" width="52%" alt="Banner"/>
+  </div>
+
 </div>
 
 ---
