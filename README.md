@@ -13,7 +13,6 @@
 ### 👨💻 About Me
 
 - 🔭 **Currently working on:** Aqualink, Kenium Music, Shinobu, Henium, NodeLink, yt-cipher-bun, and my @distube/ytdl-core fork
-- 🌱 **I live in:** Node.js, TypeScript, Bun — performance over hype
 - ⚡ **2026 goal:** make Lavalink alternatives actually usable
 
 ---
@@ -24,7 +23,7 @@
 |---|---|
 | **[AquaLink](https://github.com/ToddyTheNoobDud/AquaLink)** | Stable, performant Lavalink/NodeLink wrapper for music bots |
 | **[Kenium-Music](https://github.com/ToddyTheNoobDud/Kenium-Music)** | Random music bot made for fun with Seyfert (TS) |
-| **[NodeLink](https://github.com/PerformanC/NodeLink)** | Performant Lavalink alternative — I contribute |
+| **[NodeLink](https://github.com/PerformanC/NodeLink)** | Performant Lavalink alternative — I help maintain |
 | **[ytdl-core-stuff](https://github.com/ToddyTheNoobDud/ytdl-core-stuff)** | My fork of distubejs/ytdl-core |
 | **[Tooka](https://github.com/ToddyTheNoobDud/Tooka)** | Standalone Discord audio sending node |
 
@@ -55,9 +54,14 @@
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/Lavalink-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodelink-339933?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zed-1348DC?style=for-the-badge&logo=zed&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTP%20Toolkit-2A2A2A?style=for-the-badge&logo=httptoolkit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSONL-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
----
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/db534e47-3d23-4bd5-9c40-e16582dd3628" width="20%" alt="Banner"/>
