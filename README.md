@@ -65,8 +65,3 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/JSONL-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/db534e47-3d23-4bd5-9c40-e16582dd3628" width="20%" alt="Banner"/>
-</div>
